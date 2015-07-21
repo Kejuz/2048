@@ -139,7 +139,7 @@ function isgameover() {
 }
 
 function gameover() {
-	alert('gameover!');
+	alert('得分：' + score);
 }
 
 function moveLeft() {
